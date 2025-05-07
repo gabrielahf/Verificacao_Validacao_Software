@@ -1,5 +1,5 @@
 # Verificacao_Validacao_Software
-
+para rodar o código: mvn test
 
 ## QUESTÃO 1:
 Para se candidatar a um voo na nave “New Shepard” da Blue Origin o candidato tem de 
